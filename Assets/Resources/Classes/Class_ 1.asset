@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0751b33b3ddbe5e4c93b0a8a5defe76c, type: 3}
+  m_Name: Class_ 1
+  m_EditorClassIdentifier: Assembly-CSharp::ClassConfig
+  className: "\u0412\u043E\u0440\u044B"
+  classId: 1
+  unitCards:
+  - cardName: 
+    cardImage: {fileID: -1071734669934420209, guid: 294c7a8267d796148bebc667844215ea, type: 3}
+    attack: 1
+    health: 1
+    actionPointCost: 1
+    abilityDescription: 
+    armorPhysical: 0
+    armorMagic: 0
+    attackType: 0
+    requiresSacrifice: 0
+    sacrificeAPCost: 0
+    isNamed: 0
+  - cardName: 
+    cardImage: {fileID: -1071734669934420209, guid: 294c7a8267d796148bebc667844215ea, type: 3}
+    attack: 1
+    health: 2
+    actionPointCost: 1
+    abilityDescription: 
+    armorPhysical: 0
+    armorMagic: 0
+    attackType: 0
+    requiresSacrifice: 0
+    sacrificeAPCost: 0
+    isNamed: 0
+  - cardName: 
+    cardImage: {fileID: -1071734669934420209, guid: 294c7a8267d796148bebc667844215ea, type: 3}
+    attack: 2
+    health: 3
+    actionPointCost: 1
+    abilityDescription: 
+    armorPhysical: 0
+    armorMagic: 0
+    attackType: 0
+    requiresSacrifice: 0
+    sacrificeAPCost: 0
+    isNamed: 0
+  - cardName: 
+    cardImage: {fileID: -1071734669934420209, guid: 294c7a8267d796148bebc667844215ea, type: 3}
+    attack: 1
+    health: 2
+    actionPointCost: 1
+    abilityDescription: 
+    armorPhysical: 0
+    armorMagic: 0
+    attackType: 0
+    requiresSacrifice: 0
+    sacrificeAPCost: 0
+    isNamed: 0
+  - cardName: 
+    cardImage: {fileID: -1071734669934420209, guid: 294c7a8267d796148bebc667844215ea, type: 3}
+    attack: 1
+    health: 2
+    actionPointCost: 1
+    abilityDescription: 
+    armorPhysical: 0
+    armorMagic: 0
+    attackType: 0
+    requiresSacrifice: 0
+    sacrificeAPCost: 0
+    isNamed: 0
+  spellCards:
+  - cardName: 
+    cardImage: {fileID: 3013390855461805465, guid: c44c2f9a66d6e7d4aa20fd5dbf4d048b, type: 3}
+    description: 
+    actionPointCost: 1
+    isArcane: 0
+  - cardName: 
+    cardImage: {fileID: 3013390855461805465, guid: c44c2f9a66d6e7d4aa20fd5dbf4d048b, type: 3}
+    description: 
+    actionPointCost: 1
+    isArcane: 0
+  - cardName: 
+    cardImage: {fileID: 3013390855461805465, guid: c44c2f9a66d6e7d4aa20fd5dbf4d048b, type: 3}
+    description: 
+    actionPointCost: 1
+    isArcane: 0
+  - cardName: 
+    cardImage: {fileID: 3013390855461805465, guid: c44c2f9a66d6e7d4aa20fd5dbf4d048b, type: 3}
+    description: 
+    actionPointCost: 1
+    isArcane: 0
+  - cardName: 
+    cardImage: {fileID: 3013390855461805465, guid: c44c2f9a66d6e7d4aa20fd5dbf4d048b, type: 3}
+    description: 
+    actionPointCost: 1
+    isArcane: 0
+  - cardName: 
+    cardImage: {fileID: 3013390855461805465, guid: c44c2f9a66d6e7d4aa20fd5dbf4d048b, type: 3}
+    description: 
+    actionPointCost: 1
+    isArcane: 0
+  specialCards:
+  - cardName: 
+    cardImage: {fileID: 8269639005410422704, guid: 311f6b97a67d531489c69a1d248b200d, type: 3}
+    attack: 3
+    health: 5
+    actionPointCost: 2
+    abilityDescription: 
+    armorPhysical: 0
+    armorMagic: 0
+    attackType: 0
+    requiresSacrifice: 0
+    sacrificeAPCost: 0
+    isNamed: 1
+  - cardName: 
+    cardImage: {fileID: 8269639005410422704, guid: 311f6b97a67d531489c69a1d248b200d, type: 3}
+    attack: 3
+    health: 5
+    actionPointCost: 2
+    abilityDescription: 
+    armorPhysical: 0
+    armorMagic: 0
+    attackType: 0
+    requiresSacrifice: 0
+    sacrificeAPCost: 0
+    isNamed: 1
+  - cardName: 
+    cardImage: {fileID: 8269639005410422704, guid: 311f6b97a67d531489c69a1d248b200d, type: 3}
+    attack: 3
+    health: 5
+    actionPointCost: 2
+    abilityDescription: 
+    armorPhysical: 0
+    armorMagic: 0
+    attackType: 0
+    requiresSacrifice: 0
+    sacrificeAPCost: 0
+    isNamed: 1
+  - cardName: 
+    cardImage: {fileID: 8269639005410422704, guid: 311f6b97a67d531489c69a1d248b200d, type: 3}
+    attack: 3
+    health: 5
+    actionPointCost: 2
+    abilityDescription: 
+    armorPhysical: 0
+    armorMagic: 0
+    attackType: 0
+    requiresSacrifice: 1
+    sacrificeAPCost: 2
+    isNamed: 1
+  - cardName: 
+    cardImage: {fileID: 8269639005410422704, guid: 311f6b97a67d531489c69a1d248b200d, type: 3}
+    attack: 15
+    health: 15
+    actionPointCost: 2
+    abilityDescription: 
+    armorPhysical: 0
+    armorMagic: 0
+    attackType: 0
+    requiresSacrifice: 1
+    sacrificeAPCost: 3
+    isNamed: 1
